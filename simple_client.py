@@ -7,7 +7,7 @@ from cryptography.hazmat.backends import default_backend
 import os
 
 # Server information
-SERVER_HOST = 'your_server_ip'
+SERVER_HOST = '4cucbhwzzybh64eg4yjhrfjse4vbzgx6627fvra2whkm2maq3nvlefid.onion'
 SERVER_PORT = 12345
 
 # Encryption key and settings
